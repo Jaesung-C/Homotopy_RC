@@ -1,0 +1,14 @@
+# MATLAB autosave / temporary files
+*.asv
+*.m~
+*.autosave
+
+# OS / cloud-sync junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
