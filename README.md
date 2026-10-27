@@ -3,7 +3,7 @@
 Official MATLAB code reproducing the key figures of the paper:
 
 > **Homotopy reservoir computing: Harnessing chaos for computation**
-> *Chaos* (2025) — DOI: [10.1063/5.0265318](https://doi.org/10.1063/5.0265318)
+> *Chaos* (2025) — DOI: [10.1063/5.0273406](https://doi.org/10.1063/5.0273406)
 
 > **Note.** This repository was cleaned up and reorganised separately after
 > publication, so minor differences from the original code are possible — but it
@@ -208,6 +208,6 @@ The KS and Lorenz-96 reservoirs use their own homotopy exponents and step sizes
   author  = {Choi, Jaesung and Kim, Pilwon},
   journal = {Chaos},
   year    = {2025},
-  doi     = {10.1063/5.0265318}
+  doi     = {10.1063/5.0273406}
 }
 ```
